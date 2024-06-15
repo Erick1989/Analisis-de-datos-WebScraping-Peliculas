@@ -1,4 +1,4 @@
-# Analisis-de-datos-WebScraping-Peliculasy-An-lisis-de-Datos-
+# Analisis-de-datos-WebScraping-Peliculas
 # Objetivos
 - 1 Aprender a instalar y cargar las librerías necesarias.
 - 2 Leer una página web y extraer datos específicos.
